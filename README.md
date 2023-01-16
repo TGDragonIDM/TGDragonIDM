@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 『TG』 ཌĐʀᴀɢᴏƝད°ᴵᴰᴹ</h1>
+<h1 align="center">Hello 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 『TG』 ཌĐʀᴀɢᴏƝད°ᴵᴰᴹ</h1>
 <h3 align="center">A Crystal Beginner trying to Figure-Out Stuff n I'm a passionate Editor & Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TGDragonIDM&label=Profile%20views&color=129e00&style=plastic" alt="TGDragonIDM" /> </p>
@@ -50,27 +50,3 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TGDragonIDM's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TGDragonIDM&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/TGDragonIDM/github-readme-stats"><img alt="TGDragonIDM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TGDragonIDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TGDragonIDM/github-readme-stats"><img alt="TGDragonIDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGDragonIDM&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/TGDragonIDM/github-readme-activity-graph"><img alt="TGDragonIDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TGDragonIDM&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/TGDragonIDM/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TGDragonIDM">
-</a>
-<a href="https://github.com/TGDragonIDM?tab=followers"><img src="https://img.shields.io/github/followers/TGDragonIDM?label=Followers&style=social" alt="GitHub Badge"></a>
-
