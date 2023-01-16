@@ -1,24 +1,24 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Bello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MR DudE</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 『TG』 ཌĐʀᴀɢᴏƝད°ᴵᴰᴹ</h1>
 <h3 align="center">A Crystal Beginner trying to Figure-Out Stuff n I'm a passionate Editor & Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Greatbotmaker&label=Profile%20views&color=129e00&style=plastic" alt="Greatbotmaker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TGDragonIDM&label=Profile%20views&color=129e00&style=plastic" alt="TGDragonIDM" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Advance Auto filter Bot**
+- 🔭 I’m currently working on **Advance Auto Filter Bot**
 
-- 🌱 I’m currently learning **Still On Learning Python & Data Structures and TeleGRAM Bots.**
+- 🌱 I’m currently learning **Still On Learning Python & Data Structures and Telegram Bots.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Greatbotmaker.com)**
+- 👨‍💻 All of my projects are available at **My Private GitHub Account**
 
-- 📫 How to reach me [**TeleGRAM**](https"//t.me/Ultrasupport105_bot)
+- 📫 How to reach me [**Telegram**](https://t.me/TGDragonIDM)
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I Play Games and Go To The GYM Very Often.**
 
 ## 🚀 Languages and Tools:
 
@@ -47,15 +47,15 @@
 
 <p align="center">
     <a href="https://github.com/Greatbotmaker/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Greatbotmaker's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Greatbotmaker&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TGDragonIDM's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TGDragonIDM&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Greatbotmaker/github-readme-stats"><img alt="Greatbotmaker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Greatbotmaker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Greatbotmaker/github-readme-stats"><img alt=Greatbotmaker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greatbotmaker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/TGDragonIDM/github-readme-stats"><img alt="TGDragonIDM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TGDragonIDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TGDragonIDM/github-readme-stats"><img alt="TGDragonIDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGDragonIDM&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -63,24 +63,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Greatbotmaker/github-readme-activity-graph"><img alt="Greatbotmaker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Greatbotmaker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/TGDragonIDM/github-readme-activity-graph"><img alt="TGDragonIDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TGDragonIDM&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Shan_nk_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/TGDragonIDM/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TGDragonIDM">
 </a>
-<a href="https://github.com/Greatbotmaker?tab=followers"><img src="https://img.shields.io/github/followers/Greatbotmaker?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TGDragonIDM?tab=followers"><img src="https://img.shields.io/github/followers/TGDragonIDM?label=Followers&style=social" alt="GitHub Badge"></a>
 
